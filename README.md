@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel de Freiats Brito
+# 👋 Olá, eu sou Gabriel de Freitas Brito
 
 💻 Software developer & Especialista em Infraestrutura de TI
 
