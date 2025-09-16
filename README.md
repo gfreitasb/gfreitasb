@@ -9,7 +9,7 @@
 ### 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,nodejs,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,postgres,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,postgres,)](https://skillicons.dev)
 
 
 
