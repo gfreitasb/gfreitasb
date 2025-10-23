@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Gabriel de Freitas Brito
 
 👨‍💻 Senior Support Analyst at Stefanini Group. 2+ years of experience.
+
 💻 Software developer & Especialista em Infraestrutura de TI
 
 🎓 Graduado em Systems Analysis and Development at [Faculdade Estácio](https://estacio.br/?srsltid=AfmBOopb0g2X2OLuOCCa9sY6bD-FuN6V_C3HzAlE1P0uUYdlX-DWGigS)   
