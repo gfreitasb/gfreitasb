@@ -5,7 +5,7 @@
 💻 Software developer Beck-end;
 
 🎓 Graduated from Systems Analysis and Development at [Faculdade Estácio](https://estacio.br/?srsltid=AfmBOopb0g2X2OLuOCCa9sY6bD-FuN6V_C3HzAlE1P0uUYdlX-DWGigS)    
-
+🎓 Bachelor from Software Engineering at [Faculdade Estácio](https://www.anhanguera.com/)
 
 ### 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
