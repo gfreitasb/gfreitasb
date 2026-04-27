@@ -2,7 +2,7 @@
 
 👨‍💻 Senior Support Analyst at Stefanini Group. 2+ years of experience in IT.
 
-💻 Software developer Beck-end;
+💻 Software Engineering Back-end;
 
 🎓 Graduated from Systems Analysis and Development at [Faculdade Estácio](https://estacio.br/?srsltid=AfmBOopb0g2X2OLuOCCa9sY6bD-FuN6V_C3HzAlE1P0uUYdlX-DWGigS)    
 🎓 Bachelor from Software Engineering at [Faculdade Anhaguera](https://www.anhanguera.com/)
