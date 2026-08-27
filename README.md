@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriel de Freitas Brito
 
-👨‍💻 Senior Support Analyst at Stefanini Group. 2+ years of experience in IT.
+👨‍💻 Mid-level Continuous Improvement Analyst at AeC. 2+ years of experience in IT.
 
 💻 Software Engineering Back-end;
 
